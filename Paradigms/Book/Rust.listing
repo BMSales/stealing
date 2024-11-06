@@ -1,4 +1,0 @@
-$ rustc variables.rs
-$ ./variables
-> 2
-> 2
